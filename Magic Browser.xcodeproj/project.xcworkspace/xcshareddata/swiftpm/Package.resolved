@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "combinefall",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/naknut/Combinefall/",
+      "state" : {
+        "branch" : "master",
+        "revision" : "7766a3c22c6854d52412fa09870d06c61b73d27a"
+      }
+    }
+  ],
+  "version" : 2
+}
